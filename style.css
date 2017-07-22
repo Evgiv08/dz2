@@ -1,0 +1,68 @@
+body{
+	background-image: url(background.png);
+	font-family: "Franklin Gothic Medium";
+	color: #ffffff;
+	text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+	font-weight: 400;
+}
+ul{
+	padding: 0;
+	margin-top: 65px;
+	margin-left: 55px;
+}
+li{
+	display: inline;
+	font-size: 17px;
+	line-height: 20px;
+}
+.li2{
+	margin-left: 26px;
+	font-size: 15px;
+	line-height: 18px;
+}
+.li3{
+	margin-left: 16px;
+	font-size: 15px;
+	line-height: 18px;
+}
+.li4{
+	margin-left: 15px;
+	font-size: 15px;
+	line-height: 18px;
+}
+a{
+	text-decoration: none;
+	opacity: 0.87;
+	color: #b1bbcb;
+}
+img{
+	position: absolute;
+	top: 0px; 
+	right: 0px;
+	z-index: -1;
+}
+h2{
+	margin-top: 71px;
+	margin-left: 96px;
+	margin-bottom: 0;
+	font-size: 25px;
+	line-height: 30px;
+}
+p{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left:95px;
+	font-size: 13px;
+	line-height: 16px;
+	width: 467px;
+}
+footer{
+	margin-bottom: 50px;
+	margin-left: 54px ;
+	position: absolute;
+	left: 0; 
+	bottom: 0;
+	opacity: 0.27;
+	font-size: 12px;
+	line-height: 14px;
+}
